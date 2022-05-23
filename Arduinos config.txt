@@ -1,0 +1,18 @@
+Mini:	Memoria Flash - 16KB
+	Memoria SRAM  - 1KB
+	EEPROM - 512B
+
+
+Nano:	Memoria Flash - 32KB
+	Memoria SRAM  - 2KB
+	EEPROM - 1KB
+
+
+Uno:	Memoria Flash - 32KB
+	Memoria SRAM  - 2KB
+	EEPROM - 1KB
+
+
+Mega:	Memoria Flash - 256KB
+	Memoria SRAM  - 8KB
+	EEPROM - 4KB
